@@ -7,6 +7,9 @@
     "hostname": "kasm"
   },
   "exec_config": {
+    "first_launch": {
+      "cmd": "bash -c 'wine \"/opt/På bedstemors loft/På bedstemors loft.exe\"'"
+    },
     "go": {
       "cmd": "bash -c 'wine \"/opt/På bedstemors loft/På bedstemors loft.exe\"'"
     },
@@ -27,5 +30,5 @@
     "1.15.x",
     "1.16.x"
   ],
-  "uncompressed_size_mb": 3560
+  "uncompressed_size_mb": 4280
 }
