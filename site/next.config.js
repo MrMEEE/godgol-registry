@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'GODGOL Registry',
     description: 'God old Danish Games on Linux',
     icon: '/img/logo.svg',
-    listUrl: 'http://r2d2.outerrim.lan:8081/',
+    listUrl: 'https://mrmeee.github.io/godgol-registry',
     contactUrl: 'https://martin-juhl.dk',
   },
   reactStrictMode: true,
