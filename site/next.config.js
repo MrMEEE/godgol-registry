@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'GODGOL Registry',
+    description: 'God old Danish Games on Linux',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'http://r2d2.outerrim.lan:8081/',
+    contactUrl: 'https://martin-juhl.dk',
   },
   reactStrictMode: true,
   swcMinify: true,
