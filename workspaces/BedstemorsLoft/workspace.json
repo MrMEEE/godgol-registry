@@ -1,7 +1,7 @@
 {
   "description": "Pixeline - På Bedstemors Loft",
-  "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "bedstemosrsloft.jpg",
+  "docker_registry": "http://r2d2.outerrim.lan:5000/v1/",
+  "image_src": "bedstemorsloft.png",
   "name": "r2d2.outerrim.lan:5000/pixeline/bedstemorsloft",
   "run_config": {
     "hostname": "kasm"
