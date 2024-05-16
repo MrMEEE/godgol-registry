@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'God old Danish Games on Linux',
     icon: '/img/logo.svg',
     listUrl: 'https://mrmeee.github.io/godgol-registry',
-    contactUrl: 'https://martin-juhl.dk',
+    contactUrl: 'http://martin-juhl.dk',
   },
   reactStrictMode: true,
   swcMinify: true,
