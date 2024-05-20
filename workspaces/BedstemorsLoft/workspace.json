@@ -8,7 +8,7 @@
   },
   "exec_config": {
     "first_launch": {
-      "cmd": "bash -c 'wine \"/opt/På bedstemors loft/På bedstemors loft.exe\"'"
+      "cmd": "sleep 5 && bash -c 'wine \"/opt/På bedstemors loft/På bedstemors loft.exe\"'"
     },
     "go": {
       "cmd": "bash -c 'wine \"/opt/På bedstemors loft/På bedstemors loft.exe\"'"
