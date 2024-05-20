@@ -7,9 +7,6 @@
     "hostname": "kasm"
   },
   "exec_config": {
-    "first_launch": {
-      "cmd": "sleep 5 && bash -c 'wine \"/opt/På bedstemors loft/På bedstemors loft.exe\"'"
-    },
     "go": {
       "cmd": "bash -c 'wine \"/opt/På bedstemors loft/På bedstemors loft.exe\"'"
     },
